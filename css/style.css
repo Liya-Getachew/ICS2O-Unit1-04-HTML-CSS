@@ -3,32 +3,30 @@
 *created on:sept 20 2022
 */
 body {
-  background-color: lightcoral;
+  background-color: rgb(240 128 128);
 }
 
 h1 {
-  background-color: ivory;
-  color: crimson;
+  background-color: rgb(253 243 241);
+  color:rgb(229 1 1);
   padding: 30px;
   text-align: center;
-  font-family: Monaco, Courier New, monospace;
+  font-family: Monaco, Courier New, monospace ;
 }
 
 h4 {
-  background-color: ivory;
-  color: crimson;
+  background-color:rgb(253 243 241);
+  color:rgb(229 1 1)
   padding: 10px;
-  text-align: center;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  text-align:center;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 p {
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 div {
-  background-color: ivory;
-  border-style: double;
+  background-color: rgb(253 243 241);
+  border-style: double ;
 }
