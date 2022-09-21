@@ -8,25 +8,27 @@ body {
 
 h1 {
   background-color: ivory;
-  color:crimson;
+  color: crimson;
   padding: 30px;
   text-align: center;
-  font-family: Monaco, Courier New, monospace ;
+  font-family: Monaco, Courier New, monospace;
 }
 
 h4 {
-  background-color:ivory;
-  color:crimson;
+  background-color: ivory;
+  color: crimson;
   padding: 10px;
-  text-align:center;
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
 p {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
 div {
   background-color: ivory;
-  border-style: double ;
+  border-style: double;
 }
