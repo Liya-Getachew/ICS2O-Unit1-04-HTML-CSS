@@ -11,7 +11,7 @@ h1 {
   color: hsl(0deg 100% 45%);
   padding: 30px;
   text-align: center;
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h4 {
@@ -19,11 +19,11 @@ h4 {
   color: hsl(0deg 100% 45%);
   padding: 10px;
   text-align: center;
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 p {
-  font-family:'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 
 div {
