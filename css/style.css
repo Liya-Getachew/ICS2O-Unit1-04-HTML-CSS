@@ -8,25 +8,27 @@ body {
 
 h1 {
   background-color: rgb(253 243 241);
-  color:hsl(0deg 100% 45%);
+  color: hsl(0deg 100% 45%);
   padding: 30px;
   text-align: center;
-  font-family: Monaco, Courier New, monospace ;
+  font-family: Monaco, Courier New, monospace;
 }
 
 h4 {
-  background-color:rgb(253 243 241);
-  color:hsl(0deg 100% 45%);
+  background-color: rgb(253 243 241);
+  color: hsl(0deg 100% 45%);
   padding: 10px;
-  text-align:center;
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
 p {
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
 div {
   background-color: rgb(253 243 241);
-  border-style: double ;
+  border-style: double;
 }
