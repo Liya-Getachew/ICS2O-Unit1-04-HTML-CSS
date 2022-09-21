@@ -1,0 +1,32 @@
+/*
+*created by: Liya Getachew
+*created on:sept 20 2022
+*/
+body {
+  background-color: lightcoral;
+}
+
+h1 {
+  background-color: ivory;
+  color:crimson;
+  padding: 30px;
+  text-align: center;
+  font-family: Monaco, Courier New, monospace ;
+}
+
+h4 {
+  background-color:ivory;
+  color:crimson;
+  padding: 10px;
+  text-align:center;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+div {
+  background-color: ivory;
+  border-style: double ;
+}
