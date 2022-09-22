@@ -1,7 +1,8 @@
 /*
 *created by: Liya Getachew
-*created on:sept 20 2022
+*created on:sept 21 2022
 */
+
 body {
   background-color: rgb(240 128 128);
 }
@@ -22,11 +23,37 @@ h4 {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
-p {
-  font-family: "Courier New", Courier, monospace;
-}
-
 div {
   background-color: rgb(255 255 240);
   border-style: double;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+td {
+  color: #b11031;
+  font-size: 20px;
+}
+
+ol {
+  font-family:'Courier New', Courier, monospace;
+  font-size: 20px;
+}
+
+th {
+  background-color: #e2b998;
+}
+
+td {
+  background-color: ivory;
+}
+
+h5 {
+  background-color: rgb(253 243 241);
+  color: hsl(0deg 100% 45%);
+  padding: 5px;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
