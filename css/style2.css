@@ -37,6 +37,7 @@ td {
 td {
   color: #b11031;
   font-size: 20px;
+  background-color: ivory;
 }
 
 ol {
@@ -46,10 +47,6 @@ ol {
 
 th {
   background-color: #e2b998;
-}
-
-td {
-  background-color: ivory;
 }
 
 h5 {
